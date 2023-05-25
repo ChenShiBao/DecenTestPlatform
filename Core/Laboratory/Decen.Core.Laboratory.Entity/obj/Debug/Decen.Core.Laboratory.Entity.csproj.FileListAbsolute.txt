@@ -1,0 +1,8 @@
+E:\DecenProject\DecenTestPlatform\Core\Laboratory\Decen.Core.Laboratory.Entity\bin\Debug\Decen.Core.Laboratory.Entity.dll
+E:\DecenProject\DecenTestPlatform\Core\Laboratory\Decen.Core.Laboratory.Entity\bin\Debug\Decen.Core.Laboratory.Entity.pdb
+E:\DecenProject\DecenTestPlatform\Core\Laboratory\Decen.Core.Laboratory.Entity\bin\Debug\SqlSugar.dll
+E:\DecenProject\DecenTestPlatform\Core\Laboratory\Decen.Core.Laboratory.Entity\obj\Debug\Decen.Core.Laboratory.Entity.csproj.AssemblyReference.cache
+E:\DecenProject\DecenTestPlatform\Core\Laboratory\Decen.Core.Laboratory.Entity\obj\Debug\Decen.Core.Laboratory.Entity.csproj.CoreCompileInputs.cache
+E:\DecenProject\DecenTestPlatform\Core\Laboratory\Decen.Core.Laboratory.Entity\obj\Debug\Decen.Core.Laboratory.Entity.csproj.CopyComplete
+E:\DecenProject\DecenTestPlatform\Core\Laboratory\Decen.Core.Laboratory.Entity\obj\Debug\Decen.Core.Laboratory.Entity.dll
+E:\DecenProject\DecenTestPlatform\Core\Laboratory\Decen.Core.Laboratory.Entity\obj\Debug\Decen.Core.Laboratory.Entity.pdb

@@ -1,0 +1,4 @@
+2023-05-24 18:27:00.906862 ; Session        ; Debug       ; Session log loaded as 'console_log.txt'. [2.19 ms]
+2023-05-24 18:27:00.943727 ; Session        ; Debug       ; Running '"E:\DecenProject\DecenTestPlatform\ApplicationTestPlatform\Client\Decen.Client.TestPlatform\bin\Debug\Decen.Client.TestPlatform.exe" ' in 'E:\DecenProject\DecenTestPlatform\ApplicationTestPlatform\Client\Decen.Client.TestPlatform\bin\Debug'.
+2023-05-24 18:32:37.157781 ; Session        ; Debug       ; Running '"E:\DecenProject\DecenTestPlatform\ApplicationTestPlatform\Client\Decen.Client.TestPlatform\bin\Debug\Decen.Client.TestPlatform.exe" ' in 'E:\DecenProject\DecenTestPlatform\ApplicationTestPlatform\Client\Decen.Client.TestPlatform\bin\Debug'.
+2023-05-24 18:33:21.915571 ; Session        ; Debug       ; Unexpected error while printing system information.

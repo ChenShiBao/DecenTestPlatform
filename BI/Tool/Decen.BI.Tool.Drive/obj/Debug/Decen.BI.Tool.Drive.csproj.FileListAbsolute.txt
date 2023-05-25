@@ -1,0 +1,6 @@
+E:\DecenProject\DecenTestPlatform\BI\Tool\Decen.BI.Tool.Drive\bin\Debug\Decen.BI.Tool.Drive.dll
+E:\DecenProject\DecenTestPlatform\BI\Tool\Decen.BI.Tool.Drive\bin\Debug\Decen.BI.Tool.Drive.pdb
+E:\DecenProject\DecenTestPlatform\BI\Tool\Decen.BI.Tool.Drive\obj\Debug\Decen.BI.Tool.Drive.csproj.AssemblyReference.cache
+E:\DecenProject\DecenTestPlatform\BI\Tool\Decen.BI.Tool.Drive\obj\Debug\Decen.BI.Tool.Drive.csproj.CoreCompileInputs.cache
+E:\DecenProject\DecenTestPlatform\BI\Tool\Decen.BI.Tool.Drive\obj\Debug\Decen.BI.Tool.Drive.dll
+E:\DecenProject\DecenTestPlatform\BI\Tool\Decen.BI.Tool.Drive\obj\Debug\Decen.BI.Tool.Drive.pdb

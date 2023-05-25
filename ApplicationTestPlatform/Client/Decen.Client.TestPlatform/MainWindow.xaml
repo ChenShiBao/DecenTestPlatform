@@ -1,0 +1,26 @@
+﻿<Window x:Class="Decen.Client.TestPlatform.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        xmlns:my="clr-namespace:Decen.Client.TestPlatform"      
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox Text="{Binding Title}" Width="300"/>
+            <CheckBox Margin="0,5,0,0" VerticalAlignment="Center" Content="Is enable" IsChecked="{Binding IsEnabled}"/>
+            <Separator Margin="5"/>
+            <Button Command="{Binding ButtonClickCommand}" Content="Click Me"/>
+            <CheckBox VerticalAlignment="Center" Content="IsRuning" IsChecked="{Binding ButtonClickCommand.IsRunning,Mode=OneWay}"/>
+            <TextBox Width="200" Text="{Binding Caption, Mode=OneWay}"/>
+            <Separator Margin="10"/>
+            <TextBox Width="200" Text="{Binding FirstName}" ToolTip="姓"/>
+            <Separator Margin="2"/>
+            <TextBox Width="200" Text="{Binding LastName}" ToolTip="名"/>
+            <Separator Margin="2"/>
+            <TextBox Width="200" Text="{Binding Age}" ToolTip="年龄"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\bin\Debug\netstandard2.0\Decen.Common.Extensions.deps.json
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\bin\Debug\netstandard2.0\Decen.Common.Extensions.dll
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\bin\Debug\netstandard2.0\Decen.Common.Extensions.pdb
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\obj\Debug\netstandard2.0\Decen.Common.Extensions.csproj.AssemblyReference.cache
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\obj\Debug\netstandard2.0\Decen.Common.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\obj\Debug\netstandard2.0\Decen.Common.Extensions.AssemblyInfoInputs.cache
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\obj\Debug\netstandard2.0\Decen.Common.Extensions.AssemblyInfo.cs
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\obj\Debug\netstandard2.0\Decen.Common.Extensions.csproj.CoreCompileInputs.cache
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\obj\Debug\netstandard2.0\Decen.Common.Extensions.dll
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Extensions\obj\Debug\netstandard2.0\Decen.Common.Extensions.pdb

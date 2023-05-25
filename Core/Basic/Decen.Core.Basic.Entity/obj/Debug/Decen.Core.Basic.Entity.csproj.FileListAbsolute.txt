@@ -1,0 +1,6 @@
+E:\DecenProject\DecenTestPlatform\Core\Basic\Decen.Core.Basic.Entity\bin\Debug\Decen.Core.Basic.Entity.dll
+E:\DecenProject\DecenTestPlatform\Core\Basic\Decen.Core.Basic.Entity\bin\Debug\Decen.Core.Basic.Entity.pdb
+E:\DecenProject\DecenTestPlatform\Core\Basic\Decen.Core.Basic.Entity\obj\Debug\Decen.Core.Basic.Entity.csproj.AssemblyReference.cache
+E:\DecenProject\DecenTestPlatform\Core\Basic\Decen.Core.Basic.Entity\obj\Debug\Decen.Core.Basic.Entity.csproj.CoreCompileInputs.cache
+E:\DecenProject\DecenTestPlatform\Core\Basic\Decen.Core.Basic.Entity\obj\Debug\Decen.Core.Basic.Entity.dll
+E:\DecenProject\DecenTestPlatform\Core\Basic\Decen.Core.Basic.Entity\obj\Debug\Decen.Core.Basic.Entity.pdb

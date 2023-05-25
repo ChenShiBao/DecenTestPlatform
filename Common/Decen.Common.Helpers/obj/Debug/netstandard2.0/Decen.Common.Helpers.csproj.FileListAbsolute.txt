@@ -1,0 +1,13 @@
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\bin\Debug\netstandard2.0\Decen.Common.Helpers.deps.json
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\bin\Debug\netstandard2.0\Decen.Common.Helpers.dll
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\bin\Debug\netstandard2.0\Decen.Common.Helpers.pdb
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\obj\Debug\netstandard2.0\Decen.Common.Helpers.csproj.AssemblyReference.cache
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\obj\Debug\netstandard2.0\Decen.Common.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\obj\Debug\netstandard2.0\Decen.Common.Helpers.AssemblyInfoInputs.cache
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\obj\Debug\netstandard2.0\Decen.Common.Helpers.AssemblyInfo.cs
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\obj\Debug\netstandard2.0\Decen.Common.Helpers.csproj.CoreCompileInputs.cache
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\obj\Debug\netstandard2.0\Decen.Common.Helpers.dll
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\obj\Debug\netstandard2.0\Decen.Common.Helpers.pdb
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\bin\Debug\netstandard2.0\System.Configuration.dll
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\bin\Debug\netstandard2.0\System.Security.dll
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Helpers\obj\Debug\netstandard2.0\Decen.Common.Helpers.csproj.CopyComplete

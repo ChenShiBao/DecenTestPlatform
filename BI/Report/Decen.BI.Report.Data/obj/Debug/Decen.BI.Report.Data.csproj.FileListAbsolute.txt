@@ -1,0 +1,6 @@
+E:\DecenProject\DecenTestPlatform\BI\Report\Decen.BI.Report.Data\bin\Debug\Decen.BI.Report.Data.dll
+E:\DecenProject\DecenTestPlatform\BI\Report\Decen.BI.Report.Data\bin\Debug\Decen.BI.Report.Data.pdb
+E:\DecenProject\DecenTestPlatform\BI\Report\Decen.BI.Report.Data\obj\Debug\Decen.BI.Report.Data.csproj.AssemblyReference.cache
+E:\DecenProject\DecenTestPlatform\BI\Report\Decen.BI.Report.Data\obj\Debug\Decen.BI.Report.Data.csproj.CoreCompileInputs.cache
+E:\DecenProject\DecenTestPlatform\BI\Report\Decen.BI.Report.Data\obj\Debug\Decen.BI.Report.Data.dll
+E:\DecenProject\DecenTestPlatform\BI\Report\Decen.BI.Report.Data\obj\Debug\Decen.BI.Report.Data.pdb

@@ -1,0 +1,10 @@
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\bin\Debug\netstandard2.0\Decen.Common.Logs.deps.json
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\bin\Debug\netstandard2.0\Decen.Common.Logs.dll
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\bin\Debug\netstandard2.0\Decen.Common.Logs.pdb
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\obj\Debug\netstandard2.0\Decen.Common.Logs.csproj.AssemblyReference.cache
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\obj\Debug\netstandard2.0\Decen.Common.Logs.GeneratedMSBuildEditorConfig.editorconfig
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\obj\Debug\netstandard2.0\Decen.Common.Logs.AssemblyInfoInputs.cache
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\obj\Debug\netstandard2.0\Decen.Common.Logs.AssemblyInfo.cs
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\obj\Debug\netstandard2.0\Decen.Common.Logs.csproj.CoreCompileInputs.cache
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\obj\Debug\netstandard2.0\Decen.Common.Logs.dll
+E:\DecenProject\DecenTestPlatform\Common\Decen.Common.Logs\obj\Debug\netstandard2.0\Decen.Common.Logs.pdb

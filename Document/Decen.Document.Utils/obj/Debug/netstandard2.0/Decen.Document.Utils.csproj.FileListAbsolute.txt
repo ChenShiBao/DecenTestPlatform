@@ -1,0 +1,10 @@
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\bin\Debug\netstandard2.0\Decen.Document.Utils.deps.json
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\bin\Debug\netstandard2.0\Decen.Document.Utils.dll
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\bin\Debug\netstandard2.0\Decen.Document.Utils.pdb
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\obj\Debug\netstandard2.0\Decen.Document.Utils.csproj.AssemblyReference.cache
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\obj\Debug\netstandard2.0\Decen.Document.Utils.GeneratedMSBuildEditorConfig.editorconfig
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\obj\Debug\netstandard2.0\Decen.Document.Utils.AssemblyInfoInputs.cache
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\obj\Debug\netstandard2.0\Decen.Document.Utils.AssemblyInfo.cs
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\obj\Debug\netstandard2.0\Decen.Document.Utils.csproj.CoreCompileInputs.cache
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\obj\Debug\netstandard2.0\Decen.Document.Utils.dll
+E:\DecenProject\DecenTestPlatform\Document\Decen.Document.Utils\obj\Debug\netstandard2.0\Decen.Document.Utils.pdb

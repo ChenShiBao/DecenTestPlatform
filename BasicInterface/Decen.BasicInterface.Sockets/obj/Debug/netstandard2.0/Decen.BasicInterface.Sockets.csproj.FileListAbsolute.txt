@@ -1,0 +1,10 @@
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\bin\Debug\netstandard2.0\Decen.BasicInterface.Sockets.deps.json
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\bin\Debug\netstandard2.0\Decen.BasicInterface.Sockets.dll
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\bin\Debug\netstandard2.0\Decen.BasicInterface.Sockets.pdb
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\obj\Debug\netstandard2.0\Decen.BasicInterface.Sockets.csproj.AssemblyReference.cache
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\obj\Debug\netstandard2.0\Decen.BasicInterface.Sockets.GeneratedMSBuildEditorConfig.editorconfig
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\obj\Debug\netstandard2.0\Decen.BasicInterface.Sockets.AssemblyInfoInputs.cache
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\obj\Debug\netstandard2.0\Decen.BasicInterface.Sockets.AssemblyInfo.cs
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\obj\Debug\netstandard2.0\Decen.BasicInterface.Sockets.csproj.CoreCompileInputs.cache
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\obj\Debug\netstandard2.0\Decen.BasicInterface.Sockets.dll
+E:\DecenProject\DecenTestPlatform\BasicInterface\Decen.BasicInterface.Sockets\obj\Debug\netstandard2.0\Decen.BasicInterface.Sockets.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7JGZuy+CV0thpgj+zuKlJrwwXhImfOVWfYBLf8FxrWwG+yJe9EPObJOr+om1bFX/BiEUyLiO4D0U2hU1EruOIw==",
+  "success": true,
+  "projectFilePath": "E:\\DecenProject\\DecenTestPlatform\\Common\\Decen.Common.Extensions\\Decen.Common.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
